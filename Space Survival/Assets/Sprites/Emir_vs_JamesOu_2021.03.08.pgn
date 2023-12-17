@@ -1,0 +1,56 @@
+[Event "vs Computer"]
+[Site "Chess.com"]
+[Date "2021.03.08"]
+[Round "?"]
+[White "Emir"]
+[Black "JamesOu"]
+[Result "0-1"]
+[TimeControl "-"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Nf6 6. Bd3 Bg4 7. O-O c5? ±
+{MISTAKE (+3.06)} ({(+0.54) The best move was} 7... e6 8. h3 Bh5 9. Bf4 Nbd7 10.
+a3 Be7 11. Re1 O-O 12. Bh2 Qb6 13. g4 Bg6 14. g5 Nd5 15. Bxg6 Nxc3 16. bxc3
+hxg6) 8. Be2 {INACCURACY (+1.64)} ({(+3.06) The best move was} 8. d5 g6 9. h3
+Bd7 10. Re1 Bg7 11. Bg5 Qd8 12. Qe2 O-O 13. Qxe7 Qxe7 14. Rxe7 b5 15. d6 b4 16.
+Ne4 Nd5 17. Bc4 Nxe7 18. dxe7 Re8 19. Nd6) 8... Nc6 9. d5 {Critical move.} 9...
+O-O-O? {MISTAKE (+4.24)} ({(+2.00) The best move was} 9... Bxf3 10. Bxf3 O-O-O
+11. dxc6 Rxd1 12. cxb7+ Kb8 13. Rxd1 e5 14. Bg5 Be7 15. Bxf6 Bxf6 16. Rd7 Rf8
+17. h3 c4 18. Rd5 Qc7 19. Rb5 e4 20. Bxe4) 10. Bc4?? = {BLUNDER (-0.90)}
+({(+4.24) The best move was} 10. Ng5 Bxe2 11. Qxe2 Nd4 12. Qd3 e5 13. Nxf7 Rg8
+14. Nxd8 Qxd8 15. f3 Kb8 16. Be3 g5 17. Ne4 g4 18. Nxf6 Qxf6 19. fxg4 Qg7) 10...
+e6 11. Bg5 Be7 12. Qe2? ∓ {MISTAKE (-3.69)} ({(-0.44) The best move was} 12. Bd2
+Bxf3 13. gxf3 Ne5 14. Bb3 c4 15. f4 Ng6 16. Bxc4 Qc7 17. Bb3 exd5 18. Qf3 Qd7
+19. Rae1 Nh4 20. Qg3 Nf5 21. Qd3 g6 22. Ba4) 12... Nd4 {Critical move.} 13. Qd2
+{INACCURACY (-5.48)} ({(-3.78) The best move was} 13. Qd3 exd5 14. Nxd4 dxc4 15.
+Qxc4 Rxd4 16. Qxf7 Bd8 17. Rae1 Rd7 18. Qc4 Qb4 19. Qb5 Qxb5 20. Nxb5 a6 21. Nc3
+Bf5 22. Re5 Bxc2) 13... Bxf3 14. Bxf6 {INACCURACY (-7.01)} ({(-5.59) The best
+move was} 14. Kh1 Qb4 15. Bd3 c4 16. a3 Qc5 17. gxf3 Nxf3 18. Qf4 Nxg5 19. Qxc4
+Qxc4 20. Bxc4 exd5 21. Ba2 Bc5 22. Rad1 Ne6 23. Ne2 Rhe8 24. c3 a5 25. Kg2 g6)
+14... Bxf6 15. b4 {INACCURACY (-8.94)} ({(-6.87) The best move was} 15. d6 Bc6
+16. Rad1 Rxd6 17. Bd3 Rdd8 18. Qe3 Qc7 19. Be4 h5 20. Kh1 h4 21. Bxc6 Qxc6 22.
+Ne4 Be5) 15... Qxb4 16. Rfc1 {INACCURACY (-14.51)} ({(-9.78) The best move was}
+16. Bd3 Nxc2 17. Ne4 Bxe4 18. Qxc2 Bxd3 19. Qxd3 Bxa1 20. Rxa1 Rxd5 21. Qf1 Rd2
+22. g3 Qd4 23. Qe1 b5 24. a3 a5 25. Kg2 a4) 16... Qxc4 17. Qe3 Rhe8 18. Kh1 exd5
+19. Qd2 Bg5 20. Qxg5 Qxc3 21. Rg1 f6 22. Qh4 Re7 23. a4 {INACCURACY (-14.52)}
+({(-9.60) The best move was} 23. Qh3+ Rdd7 24. Rgf1 Re2 25. Rac1 Bxg2+ 26. Qxg2
+Rxc2 27. Rxc2 Qxc2 28. Qg3 b6 29. Re1 Kb7 30. Re8 Qf5 31. Qb8+ Ka6 32. Qc8+ Kb5
+33. Kg2) 23... Rde8 24. Qf4? {MISTAKE (-20.31)} ({(-9.17) The best move was} 24.
+Qh3+ Kc7 25. gxf3 Qxf3+ 26. Qxf3 Nxf3 27. Rg3 Re1+ 28. Rxe1 Rxe1+ 29. Kg2 Rg1+
+30. Kxf3 Rxg3+ 31. fxg3 d4 32. Kf2 Kb8 33. g4 g6 34. c4 dxc3 35. g5 f5 36. a5 c2
+37. a6 c1=R 38. axb7) 24... Re1 25. Rb1? {MISTAKE (-26.86)} ({(-15.71) The best
+move was} 25. gxf3 Qxa1 26. Qg4+ f5 27. Qg5 Qd1 28. h4 Qxf3+ 29. Qg2 Rxg1+ 30.
+Kxg1 Qd1+ 31. Kh2 Qxc2) 25... Rxb1 26. h3 Bxg2+ 27. Kxg2 g5 {FASTER MATE (♚ Mate
+in 8)} ({(♚ Mate in 5) Checkmate after} 27... Rxg1+ 28. Kxg1 Qxh3 29. f3 Re1+
+30. Kf2 Re2+ 31. Kg1 Qg2#) 28. Qxf6 Rxg1+ 29. Kxg1 Re1+ 30. Kg2 a6 31. Qf8+ Kc7
+32. f3?? {BLUNDER (♚ Mate in 2)} ({(-59.70) The best move was} 32. Qg7+ Kb6 33.
+Qf6+ Ka5 34. h4 Qxc2 35. Qf3 gxh4 36. Qxd5 b6 37. Qf7 Qe4+ 38. f3 Qc2+ 39. Kh3
+Rh1+ 40. Kg4 Qg2+ 41. Kh5 Qxf3+ 42. Qxf3 Nxf3 43. Kg4 Kxa4 44. Kxf3) 32... Qxf3+
+33. Qxf3 Nxf3 34. a5?? {BLUNDER (-62.22)} ({(-33.31) The best move was} 34. Kf2
+h5 35. Kxf3 Ra1 36. Ke2 Rxa4 37. Kd3 Ra3+ 38. Ke2 Rxh3 39. Kd2 Rh2+ 40. Kc1 c4
+41. Kb1 c3) 34... Nd4 35. Kg3? {MISTAKE (-60.67)} ({(-48.08) The best move was}
+35. c3 Nb3 36. Kf2 Rc1 37. c4 Rxc4 38. Kf1 Nxa5 39. Kg1 Rc3 40. Kh2 d4 41. Kg2
+Re3 42. Kh2 d3 43. Kg2 d2) 35... h6 36. Kg4 Re4+ 37. Kg3 b5 38. h4 Rxh4 39. Kf2
+b4 40. Ke1 Nxc2+ 41. Ke2 b3 42. Kd3 b2 43. Kxc2 b1=Q+ {FASTER MATE (♚ Mate in
+12)} ({(♚ Mate in 5) Checkmate after} 43... Rb4 44. Kd2 b1=Q 45. Ke2 Rb3 46. Kf2
+Qa2+ 47. Kg1 Rb1#) 44. Kxb1 g4 45. Kb2 g3 46. Kb3 g2 47. Kc2 g1=Q 48. Kb3 Qg3+
+49. Kc2 Rh2+ 50. Kc1 Qg1# 0-1
