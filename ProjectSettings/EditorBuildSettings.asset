@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main_Menu/Main_Menu.unity
+    guid: 549c3fa828fcd8744ac6109ea825a0d0
+  - enabled: 1
+    path: Assets/Level_Transitions/Dad_Transitions/Dad_BedTrans.unity
+    guid: fc7037eb4badc7b41aa492082c56c249
+  - enabled: 1
+    path: Assets/Dad_Levels/Level_Bed/Level_Bed.unity
+    guid: 7eb88f5be99ba994597f9ebabff3192c
+  - enabled: 1
+    path: Assets/Level_Transitions/Dad_Transitions/Dad_WorkTrans.unity
+    guid: e676eafe7968fa04c98997bb214ecf54
+  - enabled: 1
+    path: Assets/Dad_Levels/Level_PacMan/Level_PacMan.unity
+    guid: 8a0b47f9abec18d4dad24e65c9c67422
+  - enabled: 1
+    path: Assets/Level_Transitions/Dad_Transitions/Dad_GrainTrans.unity
+    guid: cb07a98256ff8fa4abfb65261803c90f
+  - enabled: 1
+    path: Assets/Dad_Levels/Level_Grain/Level_Grain.unity
+    guid: 12a6f78ecc4b40540bde7f7d0de6bed2
+  - enabled: 1
+    path: Assets/Level_Transitions/Dad_Transitions/Dad_DysenteryTrans.unity
+    guid: 60c7baac90b136d48918fb7b7e761b0f
+  - enabled: 1
+    path: Assets/Dad_Levels/Level_Dysentery/Level_Dysentery.unity
+    guid: 9919fb94aa56e304897dee621e596f85
+  - enabled: 1
+    path: Assets/Level_Transitions/Dad_Transitions/Dad_DeadTrans.unity
+    guid: 8d229c7295e121f4191fed83ffd6ae7f
+  - enabled: 1
+    path: Assets/Level_Transitions/Mum_Transitions/Mum_BedTrans.unity
+    guid: c8ed1591a0ff79343b1c5348050dcc4b
+  - enabled: 1
+    path: Assets/Mum_Levels/Level_Bed 1/Level_Bed1.unity
+    guid: 4171f10c8f7daf24f9ad2729dae9bd9e
+  - enabled: 1
+    path: Assets/Level_Transitions/Mum_Transitions/Mum_ComfortTrans.unity
+    guid: eca978afbb4deb44e8acc7d2b24cf478
+  - enabled: 1
+    path: Assets/Mum_Levels/Level_Comfort/Level_Comfort.unity
+    guid: 7977a4036a4769546961cb9703bcb4cd
+  - enabled: 1
+    path: Assets/Level_Transitions/Mum_Transitions/Mum_LieTrans.unity
+    guid: 961b1f7fca1760c40b7e72ea84e5aa2e
+  - enabled: 1
+    path: Assets/Mum_Levels/Level_Lie/Level_Lie.unity
+    guid: 985c0882c8194b6438dafb5182133a87
+  - enabled: 1
+    path: Assets/Level_Transitions/Mum_Transitions/Mum_ShopTrans.unity
+    guid: 1eb2f58c0a7da2a43b0141ba147905f3
+  - enabled: 1
+    path: Assets/Mum_Levels/Level_Shop/Level_Shop.unity
+    guid: a5c9eb1c5f71d97438d5bc5e395c6714
+  - enabled: 1
+    path: Assets/Level_Transitions/Mum_Transitions/Mum_HomeTrans.unity
+    guid: 5a7c287fb6dd6f94587fcdfaec8bdd50
+  - enabled: 1
+    path: Assets/Mum_Levels/Level_PacMan1/Level_PacMan1.unity
+    guid: c1da9ee74166744418e85751a75af796
+  - enabled: 1
+    path: Assets/Level_Transitions/Mum_Transitions/Mum_DeadDadTrans.unity
+    guid: b327cdfc6b14cd041ab9499829e0ead0
+  - enabled: 1
+    path: Assets/Mum_Levels/Level_Dinner/Level_Dinner.unity
+    guid: 13f6589916b1ce44db237418b85312df
+  - enabled: 1
+    path: Assets/Level_Transitions/Mum_Transitions/Mum_DinnerTrans.unity
+    guid: 01992306f092abc48a9a16f5b749701e
+  - enabled: 1
+    path: Assets/Main_Menu/TriggerWarning.unity
+    guid: 0a6fe1798a2d0f5419c51be74e4f60ca
+  - enabled: 1
+    path: Assets/Main_Menu/HowToPlay.unity
+    guid: af3b3185ba764ae4495fbdf2fc75c634
+  - enabled: 1
+    path: Assets/Main_Menu/SplashScreenInfo.unity
+    guid: 952c16549adc26f4b99d085497e81156
+  - enabled: 1
+    path: Assets/Main_Menu/Credits.unity
+    guid: bcbae807a870cde4d8bd49542298bcce
+  - enabled: 1
+    path: Assets/Main_Menu/SplashScreenInfo 1.unity
+    guid: 8cca34738ceb0e2488f7f704b5756c6c
+  m_configObjects: {}
