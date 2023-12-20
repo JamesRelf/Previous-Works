@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Log Request</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <script data-main="scripts/WriteWorkbook" src="scripts/require.js"></script>
+    
+
+</head>
+<body>
+        <h1> Log Request </h1>
+        <br>
+        <p> <strong>Enter details here: </strong></p>
+        <label>Name:</label><br> 
+        <input type="text" id="name">
+        <br><br>
+        <label>Address:</label><br> 
+        <input type="text" id="address">
+        <br><br>
+        <label>Email:</label><br> 
+        <input type="text" id="contact">
+        <br><br>
+        <label>Reason for Query:</label><br> 
+        <input type="text" id="reason">
+        <br><br>
+        <label>Request Data ID:</label><br> 
+        <input type="text" id="customerID">
+        <br><br>
+        <input type="button" id="submit" onclick="addDataToArray()" value="Submit">
+        <br><br>
+        <input type="reset" value="Reset" onclick="clearTextBox()">
+        <br><br>
+        <input type="button" value="Request Data" onclick="requestData()" id="request">
+    <script>
+
+    </script>
+       
+    
+    <script src="scripts/WriteWorkbook.js"></script>
+
+    <script>
+     
+        const db = new Array();
+
+        function addDataToArray(){ 
+
+            var id = Math.floor(Math.random() * 10000);
+            document.getElementById('disp').innerHTML = "This is your request ID: " + id;
+
+            const customerInfo = {Name : document.getElementById("name").value, Address : document.getElementById("address").value,
+                                Contact : document.getElementById("contact").value, Reason : document.getElementById("reason").value,
+                                CustomerID : id};
+            
+            db.push(customerInfo);
+                
+            console.log('The Customers name is: ' + customerInfo.Name);
+            console.log('The Customers address is: ' + customerInfo.Address);
+            console.log('The Customers email is: ' + customerInfo.Contact);
+            console.log('The Customers reasons are: ' + customerInfo.Reason);
+            console.log('The Customers ID is: ' + customerInfo.CustomerID);
+
+            //addToWorkbook(name, contact, address, reason, custID);
+        }
+
+        
+
+        function requestData(){
+            var x = document.getElementById("customerID").value
+
+            for (var i = 0; i < db.length; i++){
+                if(x == db[i].CustomerID){
+                    document.getElementById('n').innerHTML = "This is your Name: " + db[i].Name;
+                    document.getElementById('a').innerHTML = "This is your Address: " + db[i].Address;
+                    document.getElementById('c').innerHTML = "This is your Contact: " + db[i].Contact;
+                    document.getElementById('r').innerHTML = "This is your Reason: " + db[i].Reason;
+                }
+            }
+
+       
+        }
+
+
+        function clearTextBox(){
+            document.getElementById('name').innerHTML = '';
+            document.getElementById('address').innerHTML = '';
+            document.getElementById('contact').innerHTML = '';
+            document.getElementById('reason').innerHTML = '';
+            document.getElementById('customerID').innerHTML = '';
+
+            document.getElementById('n').innerHTML = '';
+            document.getElementById('a').innerHTML = '';
+            document.getElementById('c').innerHTML = '';
+            document.getElementById('r').innerHTML = '';
+            document.getElementById('disp').innerHTML = '';
+        }
+        
+        
+    </script>
+
+    <div id="disp"></div>
+    <br>
+    <div id="n"></div>
+    <br>
+    <div id="a"></div>
+    <br>
+    <div id="c"></div>
+    <br>
+    <div id="r"></div>
+    <br>
+
+</body>
+</html>
